@@ -1,19 +1,3 @@
-# todo_app
+# todo app flutter with dark mode
+<img src="https://raw.githubusercontent.com/ALFIAN-code/todo_app_flutter/main/Screenshot%20from%202023-08-23%2017-05-26.png" width="400"> <img src="https://raw.githubusercontent.com/ALFIAN-code/todo_app_flutter/main/Screenshot%20from%202023-08-23%2017-05-52.png" width="400"> 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# todo_app_flutter
-# todo_app_flutter
-# todo_app_flutter
